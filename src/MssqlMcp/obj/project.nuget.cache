@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ze50xA9F81E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\galdin\\projects\\mssql-mcp\\src\\MssqlMcp\\MssqlMcp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\galdin\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.7.1\\microsoft.extensions.ai.abstractions.9.7.1.nupkg.sha512",
+    "C:\\Users\\galdin\\.nuget\\packages\\modelcontextprotocol\\0.3.0-preview.3\\modelcontextprotocol.0.3.0-preview.3.nupkg.sha512",
+    "C:\\Users\\galdin\\.nuget\\packages\\modelcontextprotocol.aspnetcore\\0.3.0-preview.3\\modelcontextprotocol.aspnetcore.0.3.0-preview.3.nupkg.sha512",
+    "C:\\Users\\galdin\\.nuget\\packages\\modelcontextprotocol.core\\0.3.0-preview.3\\modelcontextprotocol.core.0.3.0-preview.3.nupkg.sha512"
+  ],
+  "logs": []
+}
